@@ -28,3 +28,7 @@ urllib3==2.2.3
 uvicorn==0.30.6
 websockets==13.1
 yarl==1.12.1
+
+vosk==0.3.45   # or the latest version
+
+
